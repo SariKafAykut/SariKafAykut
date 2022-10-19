@@ -1,0 +1,6 @@
+- Merhaba, ben SariKafAykut
+- Çocukluğumdan beri yazılıma ilgim dolaysıyla alaylı bir biçimde bu işi öğrenmiş, kendimi geliştirmiş birisiyim. Hiç eğitim almadan projeler üreten, bilmediğim bir şeyi oturup kendi kendime öğrenen birisiyim.
+- Tek ilgim yazılımla bitmemekle beraber, grafik tasarım ve müzik yapmaktayım. Gitar, piyano, keman, saz, klarnet, bateri gibi enstrümanlar çalarak, aranjörlük yapmaktayım.
+- Yazılım dilleri olarak ta, C#, C++, Python, JavaScript, PHP, AJAX, LUA, ASP alaylı şekilde bilmekteyim.
+- Herhangi bir üniversite okumadım, tamamen kendi emeklerimle bu yere ulaştım.
+- Yakında açık kaynaklı projelerimi burada paylaşmaya başlayacağım. İyi günler :)
